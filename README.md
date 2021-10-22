@@ -6,6 +6,10 @@
 
 * A Survey on Metric Learning for Feature Vectors and Structured Data [[paper](https://arxiv.org/abs/1306.6709)]
 
+* A Metric Learning Reality Check (**ECCV 2020**) [[paper](https://arxiv.org/abs/2003.08505)]
+
+* A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms and Software [[paper](https://arxiv.org/abs/1812.05944)]
+
 ## Papers
 
 ### 2021
@@ -72,6 +76,10 @@
 
 * Compressed Self-Attention for Deep Metric Learning (**AAAI**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5762)]
 
+* Unsupervised Deep Metric Learning with Transformed Attention Consistency and Contrastive Clustering Loss (**ECCV**) [[paper](https://arxiv.org/abs/2008.04378)]
+
+* The Group Loss for Deep Metric Learning (**ECCV**) [[paper](https://arxiv.org/abs/1912.00385)]
+
 ### 2019
 
 * Divide and Conquer the Embedding Space for Metric Learning (**CVPR**) [[paper](https://arxiv.org/abs/1906.05990)]
@@ -85,6 +93,12 @@
 * Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning (**CVPR**) [[paper](https://arxiv.org/abs/1904.02616)]
 
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition (**CVPR**) [[paper](https://arxiv.org/abs/1801.07698)]
+
+* A Theoretically Sound Upper Bound on the Triplet Loss for Improving the Efficiency of Deep Distance Metric Learning (**CVPR**) [[paper](https://arxiv.org/abs/1904.08720)]
+
+* Deep Metric Learning Beyond Binary Supervision (**CVPR Oral**) [[paper](https://arxiv.org/abs/1904.0962)]
+
+* Stochastic Class-based Hard Example Mining for Deep Metric Learning (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Suh_Stochastic_Class-Based_Hard_Example_Mining_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)]
 
 * Ranked List Loss for Deep Metric Learning (**PAMI**) [[paper](https://arxiv.org/abs/1903.03238)]
 
@@ -105,6 +119,8 @@
 * Attention-based Ensemble for Deep Metric Learning (**ECCV**) [[paper](https://arxiv.org/abs/1804.00382)]
 
 * Deep Metric Learning with Hierarchical Triplet Loss (**ECCV**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ge_Deep_Metric_Learning_ECCV_2018_paper.pdf)]
+
+* Hard-Aware Point-to-Set Deep Metric for Person Re-identification (**ECCV**) [[paper](https://arxiv.org/abs/1807.11206)]
 
 * Learning Deep Disentangled Embeddings With the F-Statistic Loss (**NIPS**) [[paper](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)]
 
