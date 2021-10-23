@@ -1,5 +1,3 @@
-# awesome-metric-learning
-
 ## Survey
 
 * Deep Metric Learning: A Survey [[paper](https://www.mdpi.com/2073-8994/11/9/1066)]
