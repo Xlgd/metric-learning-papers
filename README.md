@@ -1,3 +1,5 @@
+# Metric Learning Papers
+
 ## Survey
 
 * Deep Metric Learning: A Survey [[paper](https://www.mdpi.com/2073-8994/11/9/1066)]
@@ -7,6 +9,8 @@
 * A Metric Learning Reality Check (**ECCV 2020**) [[paper](https://arxiv.org/abs/2003.08505)]
 
 * A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms and Software [[paper](https://arxiv.org/abs/1812.05944)]
+
+* A Unifying Mutual Information View of Metric Learning: Cross-Entropy vs. Pairwise Losses (**ECCV 2020**) [[paper](http://arxiv.org/pdf/2003.08983)]
 
 ## Papers
 
@@ -78,6 +82,10 @@
 
 * The Group Loss for Deep Metric Learning (**ECCV**) [[paper](https://arxiv.org/abs/1912.00385)]
 
+* DiVA: Diverse Visual Feature Aggregation for Deep Metric Learning (**ECCV**) [[paper](https://arxiv.org/abs/2004.13458)]
+
+* Deep Adversarial Metric Learning (**TIP**) [[paper](https://ieeexplore.ieee.org/document/8883191)]
+
 ### 2019
 
 * Divide and Conquer the Embedding Space for Metric Learning (**CVPR**) [[paper](https://arxiv.org/abs/1906.05990)]
@@ -98,6 +106,8 @@
 
 * Stochastic Class-based Hard Example Mining for Deep Metric Learning (**CVPR**) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Suh_Stochastic_Class-Based_Hard_Example_Mining_for_Deep_Metric_Learning_CVPR_2019_paper.pdf)]
 
+* Deep Asymmetric Metric Learning via Rich Relationship Mining (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Asymmetric_Metric_Learning_via_Rich_Relationship_Mining_CVPR_2019_paper.pdf)]
+
 * Ranked List Loss for Deep Metric Learning (**PAMI**) [[paper](https://arxiv.org/abs/1903.03238)]
 
 * SoftTriple Loss: Deep Metric Learning Without Triplet Sampling (**ICCV**) [[paper](https://arxiv.org/abs/1909.05235)]
@@ -105,6 +115,10 @@
 * MIC: Mining Interclass Characteristics for Improved Metric Learning (**ICCV**) [[paper](https://arxiv.org/abs/1909.11574)]
 
 * Deep Metric Learning with Tuplet Margin Loss (**ICCV**) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Deep_Metric_Learning_With_Tuplet_Margin_Loss_ICCV_2019_paper.pdf)]
+
+* Deep Meta Metric Learning (**ICCV**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Deep_Meta_Metric_Learning_ICCV_2019_paper.pdf)]
+
+* Metric Learning With HORDE: High-Order Regularizer for Deep Embeddings (**ICCV**) [[paper](http://arxiv.org/pdf/1908.02735)]
 
 * Classification is a Strong Baseline for Deep Metric Learning (**BMVC**) [[paper](https://arxiv.org/abs/1811.12649#:~:text=Abstract%3A%20Deep%20metric%20learning%20aims,image%20retrieval%20and%20face%20verification.)]
 
@@ -114,11 +128,17 @@
 
 * CosFace: Large Margin Cosine Loss for Deep Face Recognition (**CVPR**) [[paper](https://arxiv.org/abs/1801.09414)]
 
+* Large-Scale Distance Metric Learning with Uncertainty (**CVPR**) [[paper](http://arxiv.org/pdf/1805.10384)]
+
 * Attention-based Ensemble for Deep Metric Learning (**ECCV**) [[paper](https://arxiv.org/abs/1804.00382)]
 
 * Deep Metric Learning with Hierarchical Triplet Loss (**ECCV**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ge_Deep_Metric_Learning_ECCV_2018_paper.pdf)]
 
 * Hard-Aware Point-to-Set Deep Metric for Person Re-identification (**ECCV**) [[paper](https://arxiv.org/abs/1807.11206)]
+
+* Deep Variational Metric Learning (**ECCV**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xudong_Lin_Deep_Variational_Metric_ECCV_2018_paper.pdf)]
+
+* Deep Randomized Ensembles for Metric Learning (**ECCV**) [[paper](https://arxiv.org/abs/1808.04469)]
 
 * Learning Deep Disentangled Embeddings With the F-Statistic Loss (**NIPS**) [[paper](https://papers.nips.cc/paper/7303-learning-deep-disentangled-embeddings-with-the-f-statistic-loss)]
 
