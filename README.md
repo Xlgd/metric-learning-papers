@@ -172,6 +172,8 @@
 
 * FaceNet: A Unified Embedding for Face Recognition and Clustering (**CVPR 2015**) [[paper](https://arxiv.org/abs/1503.03832)]
 
+* Deep Metric Learning for Practical Person Re-Identification (**ICPR**) [[paper](https://arxiv.org/abs/1407.4979)]
+
 * Deep metric learning using triplet network (**SIMBAD 2015**) [[paper](https://arxiv.org/abs/1412.6622)]
 
 * Dimensionality Reduction by Learning an Invariant Mapping (**CVPR 2006**) [[paper](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
