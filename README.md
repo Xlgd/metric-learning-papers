@@ -108,6 +108,8 @@
 
 * Deep Asymmetric Metric Learning via Rich Relationship Mining (**CVPR**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Deep_Asymmetric_Metric_Learning_via_Rich_Relationship_Mining_CVPR_2019_paper.pdf)]
 
+* Learning Metrics from Teachers: Compact Networks for Image Embedding (**CVPR**) [[paper](https://arxiv.org/abs/1904.03624)] [[code](https://github.com/yulu0724/EmbeddingDistillation)]
+
 * Ranked List Loss for Deep Metric Learning (**PAMI**) [[paper](https://arxiv.org/abs/1903.03238)]
 
 * SoftTriple Loss: Deep Metric Learning Without Triplet Sampling (**ICCV**) [[paper](https://arxiv.org/abs/1909.05235)]
