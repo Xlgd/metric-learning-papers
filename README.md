@@ -14,6 +14,24 @@
 
 ## Papers
 
+### 2022
+
+* Enhancing Adversarial Robustness for Deep Metric Learning (**CVPR**) [[paper](https://arxiv.org/abs/2203.01439)]
+
+* Graph Sampling Based Deep Metric Learning for Generalizable Person Re-Identification (**CVPR**) [[paper](https://arxiv.org/abs/2104.01546)]
+
+* Self-Taught Metric Learning without Labels (**CVPR**) [[paper](https://arxiv.org/abs/2205.01903)]
+
+* Integrating Language Guidance into Vision-based Deep Metric Learning (**CVPR**) [[paper](https://arxiv.org/abs/2203.08543)]
+
+* Non-isotropy Regularization for Proxy-based Deep Metric Learning (**CVPR**) [[paper](https://arxiv.org/abs/2203.08547)]
+
+* Hyperbolic Vision Transformers: Combining Improvements in Metric Learning (**CVPR**) [[paper](https://arxiv.org/abs/2203.10833)]
+
+* Weakly-supervised Metric Learning with Cross-Module Communications for the Classification of Anterior Chamber Angle Images (**CVPR**)
+
+* Hypergraph-Induced Semantic Tuplet Loss for Deep Metric Learning (**CVPR**) [[code](https://github.com/ljin0429/HIST)]
+
 ### 2021
 
 * Dynamic Metric Learning: Towards a Scalable Metric Space to Accommodate Multiple Semantic Scales (**CVPR**) [[paper](https://arxiv.org/abs/2103.11781)] [[code](https://github.com/SupetZYK/DynamicMetricLearning)]
