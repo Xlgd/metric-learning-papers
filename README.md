@@ -14,6 +14,8 @@
 
 ## Papers
 
+**Updating...**
+
 ### 2022
 
 * Enhancing Adversarial Robustness for Deep Metric Learning (**CVPR**) [[paper](https://arxiv.org/abs/2203.01439)]
@@ -31,6 +33,10 @@
 * Weakly-supervised Metric Learning with Cross-Module Communications for the Classification of Anterior Chamber Angle Images (**CVPR**)
 
 * Hypergraph-Induced Semantic Tuplet Loss for Deep Metric Learning (**CVPR**) [[code](https://github.com/ljin0429/HIST)]
+
+* It Takes Two to Tango: Mixup for Deep Metric Learning (**ICLR**) [[paper](https://arxiv.org/abs/2106.04990)]
+
+* Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning (**ICLR**) [[paper](https://arxiv.org/abs/2203.12748)]
 
 ### 2021
 
@@ -201,5 +207,3 @@
 * Distance Metric Learning for Large Margin Nearest Neighbor Classification (**NIPS 2006**) [[paper](https://proceedings.neurips.cc/paper/2005/file/a7f592cef8b130a6967a90617db5681b-Paper.pdf)]
 
 * Neighbourhood Components Analysis (**NIPS 2005**) [[paper](https://www.cs.toronto.edu/~hinton/absps/nca.pdf)]
-
-**Updating...**
