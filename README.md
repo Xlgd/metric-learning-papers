@@ -16,6 +16,16 @@
 
 **Updating...**
 
+### 2023
+
+* HIER: Metric Learning Beyond Class Labels via Hierarchical Regularization (**CVPR**) [[paper](https://arxiv.org/abs/2212.14258)]
+
+* Deep Metric Learning with Adaptively Composite Dynamic Constraints (**TPAMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/10008092)]
+
+* Generative Metric Learning for Adversarially Robust Open-world Person Re-Identification (**TOMM**) [[paper](https://dl.acm.org/doi/full/10.1145/3522714)]
+
+* Distance and Direction Based Deep Discriminant Metric Learning for Kinship Verification (**TOMM**) [[paper](https://dl.acm.org/doi/full/10.1145/3531014)]
+
 ### 2022
 
 * Enhancing Adversarial Robustness for Deep Metric Learning (**CVPR**) [[paper](https://arxiv.org/abs/2203.01439)]
